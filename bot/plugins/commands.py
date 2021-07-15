@@ -62,13 +62,13 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔔Join Main Channel🔔', url=f"{HTechMedia}"
+                                    '🔔Join Main Channel🔔', url=f"https://t.me/HTechMedia"
                                 )
                         ],
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 Bot Updates 🔊', url=f"{HTM_Updates}"
+                                    '🔊 Bot Updates 🔊', url=f"https://t.me/HTM_Updates"
                                 )
                         ]
                     ]
