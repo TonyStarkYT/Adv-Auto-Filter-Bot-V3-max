@@ -34,7 +34,7 @@ async def start(bot, update):
             )
             return
         except Exception:
-            await update.reply_text(f"<b>This bot should be the admin on your update channel</b>\n\n<b>💢 ഈ ചാനലിൽ  @{UPDATE_CHANNEL} ബോട്ടിനെ അഡ്മിൻ ആക്. എന്നിട്ട് /start കൊടുക്</b>\n\n<b>🗣️ any Doubt @Mo_Tech_Group</b>")
+            await update.reply_text(f"<b>This bot should be the admin on your update channel</b>\n\n<b>💢 ഈ ചാനലിൽ  @{UPDATE_CHANNEL} ബോട്ടിനെ അഡ്മിൻ ആക്. എന്നിട്ട് /start കൊടുക്</b>\n\n<b>🗣️ any Doubt @HTechMediaSupport</b>")
             return  
     try:
         file_uid = update.command[1]
@@ -62,13 +62,13 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔔Join Main Channel🔔', url=f"{MT_CHANNEL}"
+                                    '🔔Join Main Channel🔔', url=f"{HTechMedia}"
                                 )
                         ],
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 Bot Updates 🔊', url=f"{MT_BOT_UPDATES}"
+                                    '🔊 Bot Updates 🔊', url=f"{HTM_Updates}"
                                 )
                         ]
                     ]
