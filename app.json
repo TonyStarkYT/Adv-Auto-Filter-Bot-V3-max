@@ -1,17 +1,18 @@
 {
-    "name": "Pro Auto Filter Bot V2",
-    "description": "Pro Auto Filter BoT V2 MoTect MRK_YT",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
+    "name": "Adv-Auto-Filter-Bot-V3-max",
+    "description": "Adv Auto Filter Bot V3 max H Tech Media",
+    "logo": "https://telegra.ph/file/4e834707bd51f98f14c59.jpg",
     "keywords": [
-        "Pro",
+        "Adv",
         "Auto",
         "Filter",
         "Bot",
-        "V2"
+        "V3",
+        "max"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/mo_tech_yt",
+    "website": "https://github.com/HTechMediaYT",
+    "repository": "https://github.com/HTechMediaYT/Adv-Auto-Filter-Bot-V3-max",
+    "success_url": "https://telegram.dog/HTechMediaSupport",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
@@ -43,7 +44,7 @@
         },
         "BOT_MASTER": {
             "description": "MASTER_BOT : Watch Tutorial Video😁",
-            "value": "Skp_kp"
+            "value": ""
         },
         "TEXT_MEG_PH": {
             "description": "TEXT_MEG_PH : Watch Tutorial Video😁",
