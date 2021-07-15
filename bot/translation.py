@@ -49,7 +49,7 @@ class Translation(object):
 <b><a href="https://t.me/HTechMedia">© H TECH MEDIA</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Adv-Auto-Filter-Bot</b>
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
